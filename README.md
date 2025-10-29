@@ -11,8 +11,16 @@ Mon objectif est de devenir expert en audit des SI.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Kill Chain analysis from virtual environement | <a hrref="https://google.com">Kill Chain analysis</a>|
+| Active Directory audit and mitigation | <a hrref="https://google.com">Kill Chain analysis</a>|
 | SIEM Implementation and Log Analysis          | <a hrref="https://google.com">Detection Lab</a>|
 | Forensique | <a href="https://github.com/jagaillard/Root-Me-CTF">Root-Me Writeups</a>|
+| Pentesting | <a href="https://github.com/jagaillard/Root-Me-CTF">Root-Me Writeups</a>|
+| OSINT | <a href="https://github.com/jagaillard/Root-Me-CTF">Root-Me Writeups</a>|
+| Reverse Engenering | <a href="https://github.com/jagaillard/Root-Me-CTF">Root-Me Writeups</a>|
+
+
+
 
 
 
@@ -26,7 +34,7 @@ Mon objectif est de devenir expert en audit des SI.
 ### Audit
 #### AD
 <div>
-    <img alt="Ping Castle" src="https://img.shields.io/badge/-Ping%20Castle-4B88D5?style=for-the-badge&logoColor=white" />
+    <img alt="PingCastle" src="https://img.shields.io/badge/-PingCastle-4B88D5?style=for-the-badge&logoColor=white" />
 </div>
 
 #### Vulnerabilities
@@ -45,7 +53,7 @@ Mon objectif est de devenir expert en audit des SI.
 ### SIEM / EDR
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img alt="Sentinel One" src="https://img.shields.io/badge/-Sentinel%20One-5B4FE9?style=for-the-badge&logo=sentinelone&logoColor=white" />
+    <img alt="Sentinel One" src="https://img.shields.io/badge/-SentinelOne-5B4FE9?style=for-the-badge&logo=sentinelone&logoColor=white" />
 </div>
 
 ### Forensique / Reverse
@@ -57,12 +65,12 @@ Mon objectif est de devenir expert en audit des SI.
 
 ### Dev / Scripting
 <div>
-    Python
-    Java
-    C
-    JS
-    Bash
-    PHP
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
 ## Certifications et diplômes
