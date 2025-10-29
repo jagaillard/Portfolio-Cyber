@@ -20,39 +20,39 @@ Mon objectif est de devenir expert en audit des SI.
 
 ### CTI
 <div>
-    MITRE ATT&CK
+    <img alt="MITRE ATT&CK" src="https://img.shields.io/badge/-MITRE%20ATT%26CK-E61C2A?style=for-the-badge&logo=mitre&logoColor=white" />
 </div>
 
 ### Audit
 #### AD
 <div>
-    Ping Castle
+    <img alt="Ping Castle" src="https://img.shields.io/badge/-Ping%20Castle-4B88D5?style=for-the-badge&logoColor=white" />
 </div>
 
 #### Vulnerabilities
 <div>
-    Nessus
-    FFUF
+    <img alt="Nessus" src="https://img.shields.io/badge/-Nessus-00A6A6?style=for-the-badge&logo=nessus&logoColor=white" />
+    <img alt="FFUF" src="https://img.shields.io/badge/-FFUF-6E57E0?style=for-the-badge&logoColor=white" />
 </div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    Burp
-    Postman
+    <img alt="Burp" src="https://img.shields.io/badge/-Burp-F47A20?style=for-the-badge&logo=burpsuite&logoColor=white" />
+    <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 ### SIEM / EDR
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    Sentinel One
+    <img alt="Sentinel One" src="https://img.shields.io/badge/-Sentinel%20One-5B4FE9?style=for-the-badge&logo=sentinelone&logoColor=white" />
 </div>
 
 ### Forensique / Reverse
 <div>
-    Volatility
-    JADX
-    Hashcat
+    <img alt="Volatility" src="https://img.shields.io/badge/-Volatility-2E8B57?style=for-the-badge&logoColor=white" />
+    <img alt="JADX" src="https://img.shields.io/badge/-JADX-4479A1?style=for-the-badge&logoColor=white" />
+    <img alt="Hashcat" src="https://img.shields.io/badge/-Hashcat-9B59B6?style=for-the-badge&logo=hashcat&logoColor=white" />
 </div>
 
 ### Dev / Scripting
