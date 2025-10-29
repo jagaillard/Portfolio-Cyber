@@ -12,25 +12,57 @@ Mon objectif est de devenir expert en audit des SI.
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a hrref="https://google.com">Detection Lab</a>|
-| Forensique | <a hrref="https://google.com">Detection Lab</a>|
+| Forensique | <a href="https://github.com/jagaillard/Root-Me-CTF">Root-Me Writeups</a>|
+
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### CTI
+<div>
+    MITRE ATT&CK
+</div>
+
+### Audit
+#### AD
+<div>
+    Ping Castle
+</div>
+
+#### Vulnerabilities
+<div>
+    Nessus
+    FFUF
+</div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    Burp
+    Postman
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
-### SIEM
+### SIEM / EDR
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    Sentinel One
+</div>
+
+### Forensique / Reverse
+<div>
+    Volatility
+    JADX
+    Hashcat
+</div>
+
+### Dev / Scripting
+<div>
+    Python
+    Java
+    C
+    JS
+    Bash
+    PHP
 </div>
 
 ## Certifications et diplômes
@@ -39,4 +71,4 @@ Mon objectif est de devenir expert en audit des SI.
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/jagaillard/Root-Me-CTF">Root-Me Writeups</a>
