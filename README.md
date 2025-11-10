@@ -1,15 +1,15 @@
-# Bonjour et bienvenu sur le portfolio de Janis
+# Bonjour et bienvenu sur mon portfolio : Janis GAILLARD
 <a href="https://www.linkedin.com/in/janis-gaillard-5ba854174/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Je suis passioné par la cyber dans tous ces aspects, voici un portfolio qui centralisera tous mes projets et CTF.
+Animé par une passion pour la cybersécurité dans toutes ses dimensions, ce portfolio rassemble mes projets, mes recherches et mes expériences en CTF.
 
 ## Objectif
 
-Mon objectif est de devenir expert en audit des SI.
+L’objectif de ce portfolio est de retracer mon parcours d’apprentissage en cybersécurité et de partager les projets qui m’ont permis de développer mes compétences techniques et méthodologiques.
 
-## Skills
+## Compétences
 
-| Skill                                         | Associated Project         |
+| Compétence                                         | Projet associé         |
 |-----------------------------------------------|----------------------------|
 | Kill Chain analysis from virtual environement | <a hrref="https://google.com">Kill Chain analysis</a>|
 | Active Directory audit and mitigation | <a hrref="https://google.com">Kill Chain analysis</a>|
